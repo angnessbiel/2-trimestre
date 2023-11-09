@@ -1,5 +1,5 @@
 # Olá 👋, meu nome é <b>Gabriel
-###Tenho 16 anos e atualmente sou estudante do SENAI. Sou educado, empático, honesto, sincero e admito quando estou errado. Quando eu me formar vou ser técnico de desenvolvimento de sistemas e futuramente quero trabalhar com programação e investimentos..
+Tenho 16 anos e atualmente sou estudante do SENAI. Sou educado, empático, honesto, sincero e admito quando estou errado. Quando eu me formar vou ser técnico de desenvolvimento de sistemas e futuramente quero trabalhar com programação e investimentos..
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmendesangnes&label=Profile%20views&color=0e75b6&style=flat" alt="gaabri3L__" /> </p>
